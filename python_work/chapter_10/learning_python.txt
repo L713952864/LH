@@ -1,0 +1,4 @@
+In Python you can use list and dist.
+In Python you can open files.
+In Python you can design your own small games and tools.
+In Python you can scrapy.
